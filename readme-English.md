@@ -16,7 +16,7 @@
 - Open the folder
 - Right-click on setup.inf, and in the tab that opens, select the "Install" option.
 ## Linux
-- Download [niko-linux.zip](https://github.com/xiankuang/nikocursor/releases/latest/download/niko-linux.zip), or the [4x version]([niko-linux4X.zip](https://github.com/xiankuang/nikocursor/releases/latest/download/niko-linux4X.zip))
+- Download [niko-linux.zip](https://github.com/xiankuang/nikocursor/releases/latest/download/niko-linux.zip), or the [4x version](https://github.com/xiankuang/nikocursor/releases/latest/download/niko-linux4X.zip)
 - Unzip it
 - Move the folder that appeared into `~/.local/share/icons` or `/usr/share/icons` (latter being a system-wide installation)
 - Make sure that you now have a "niko-linux" folder in the `~/.local/share/icons` directory and not "cursors"
