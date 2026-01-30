@@ -20,7 +20,9 @@
 - Unzip it
 - Move the folder that appeared into `~/.local/share/icons` or `/usr/share/icons` (latter being a system-wide installation)
 - Make sure that you now have a "niko-linux" folder in the directory above, and not "cursors"
-- Go to your system settings and apply the cursor theme (on KDE: System Settings → Colors & Themes → Cursors)
+- Go to your system settings and apply the cursor theme
+    - on KDE: System Settings → Colors & Themes → Cursors)
+    - on GNOME: Install "GNOME Tweaks" → Appearance → Select the cursor theme in the dropdown
 # Misc
 Don't forget to give XianKuang a follow!
 - [BiliBili](https://space.bilibili.com/400839602)
